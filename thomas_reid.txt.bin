@@ -965,7 +965,7 @@ $::proofers{'160'}[5] = 'Hermit00';
 $::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Thomas-Reid\thomas_reid.txt'}='2016-02-06 21:41';
 $::operationshash{'Found no more /p..p/ blocks'}='2016-02-06 19:47';
 
-$::bookmarks[0] = '894.35';
+$::bookmarks[0] = '2.9';
 
 $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Thomas-Reid\pngs\\';
 
