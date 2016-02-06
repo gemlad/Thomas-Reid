@@ -4,18 +4,21 @@
 
 
 
-/*
+/f
 THOMAS
 REID
-*/
+f/
+
 -----File: 002.png---\bluesfighting\madyh\MilochGermany\AndrewH\cmspence\--
 
 
 
 
+/f
 FAMOUS SCOTS SERIES
 
 <i>The following Volumes are now ready</i>:--
+f/
 
 
 /*
@@ -41,6 +44,7 @@ MUNGO PARK. By <sc>T. Banks Maclachlan</sc>.
 DAVID HUME. By Professor <sc>Calderwood</sc>.
 THOMAS REID. By Professor <sc>Campbell Fraser</sc>.
 */
+
 -----File: 003.png---\tannervandrisse\H Low\MilochGermany\F E H\K7UQT\-----
 
 
@@ -68,6 +72,7 @@ OLIPHANT ANDERSON
 & FERRIER · EDINBVRGH
 AND LONDON [**leaf symbols?]
 */
+
 -----File: 004.png---\tannervandrisse\H Low\MilochGermany\F E H\K7UQT\-----
 
 
@@ -133,6 +138,7 @@ A. C. F.
 <sc>University of Edinburgh</sc>,
 <i>21st February 1898</i>.
 */
+
 -----File: 007.png---\tannervandrisse\H Low\MilochGermany\F E H\cmspence\--
 
 
@@ -176,11 +182,9 @@ CHAPTER VI
 
 <sc>Glasgow College: The Professor of Moral Philosophy,
 1764-1780</sc>      72
-*/
 -----File: 008.png---\tannervandrisse\libraryfan\MilochGermany\F E H\cmspence\-
 
 
-/*
 CHAPTER VII
 
       PAGE
@@ -212,22 +216,27 @@ the Common Sense Philosophy: Reid in France:
 Reid and Hamilton: Reid and Scoto-Hegelian
 Idealism: Ethical or Theistic Final Faith</sc>      144
 */
+
 -----File: 009.png---\tannervandrisse\libraryfan\juliebarkley\F E H\Close@Hand\-
 
 
 
 
+/f
 THOMAS REID
+f/
 
 
 
 
+/f
 CHAPTER I
 
 BOYHOOD AND ANCESTRY: STRACHAN AND THE
 VALLEY OF THE DEE
 
 1710-1722
+f/
 
 
 Thomas Reid makes his first appearance as a boy in
@@ -282,10 +291,6 @@ of marvellous adventures. But Glen Dye has an interest
 of another kind. Centuries ago it was the home and property
 of the family of Cant, from whom Andrew Cant,
 the noted Covenanting preacher, was descended,[2] and
-
-[Footnote 1: The above from data at Birkwood.]
-
-[Footnote 2: <i>Scottish Notes and Queries</i>, iii. 84-88; 128.]
 -----File: 011.png---\tannervandrisse\Kasa\st0nes\F E H\Jo-Anne43\---------
 with whom the more widely celebrated Immanuel Kant,
 chief factor in the philosophical thought of modern Europe,
@@ -301,6 +306,10 @@ associated with the moorland valley of the Feugh, making
 it suggest to fancy three memorable intellectual figures.
 In Scotland David Hume and Thomas Reid are the two
 greatest names of their century in philosophy.
+
+[Footnote 1: The above from data at Birkwood.]
+
+[Footnote 2: <i>Scottish Notes and Queries</i>, iii. 84-88; 128.]
 
 Imagination is our only guide when we try to picture the
 boyhood of Thomas Reid in the homely surroundings at
@@ -422,9 +431,9 @@ in Marischal College. These all traced their birth
 to the minister of Drumoak and his mathematical wife--through
 their son David. But James, the third son of
 the Drumoak manse, was not less illustrious in himself
-and in his descendants. He was Professor of Mathe-*
+and in his descendants. He was Professor of Mathematics,
 -----File: 015.png---\Nightingale2\Kasa\seowphm\F E H\Jo-Anne43\-----------
-*matics, first at St. Andrews and then at Edinburgh,
+first at St. Andrews and then at Edinburgh,
 inventor of the reflecting telescope, also Newton's friend
 and correspondent, who introduced the science of Newton
 into the Universities of Scotland. It is of him that Whiston
@@ -507,11 +516,13 @@ all strange to it, he entered in the valley of the Feugh.
 
 
 
+/f
 CHAPTER II
 
 AT MARISCHAL COLLEGE
 
 1722-1737
+f/
 
 
 At the age of twelve Reid emerges out of the obscurity
@@ -640,9 +651,9 @@ facts of human nature for logical deduction from abstract
 dogmas. 'If a fact be actually found, either in the outer
 world of sensible things, or in the inner and invisible world
 of mind, there is no room for reasoning against it. Every
-reasoning, however subtle, if it be repugnant in its con-*
+reasoning, however subtle, if it be repugnant in its conclusion
 -----File: 022.png---\Hobo-04\gaston\seowphm\F E H\Jo-Anne43\--------------
-*clusion to the actual fact of the case, must be sophistical.'
+to the actual fact of the case, must be sophistical.'
 Turnbull is fond of repeating that facts presented to the
 senses are not the only, nor yet the most important, facts
 which the universe contains. The invisible facts which
@@ -712,9 +723,7 @@ with him on that expedition, as one of the young professors on
 his new foundation, having brought us often together, I scarce
 remember to have conversed with him on that art, liberal or
 mechanic, of which he knew not more than the ordinary
-#/
 -----File: 024.png---\Hobo-04\gaston\seowphm\F E H\Jo-Anne43\--------------
-/#
 practitioners. With the widest views, he descended to the
 most minute detail, and begrudged neither pains nor expense
 for the means of information. I enter not into his peculiarities,
@@ -756,9 +765,7 @@ thoughts would hurry me into some active scene, where I
 generally acquitted myself much to my own satisfaction, and
 in those scenes of imagination I performed many a gallant
 exploit. At the same time, in my dreams I found myself the
-#/
 -----File: 025.png---\Hobo-04\gaston\seowphm\F E H\Jo-Anne43\--------------
-/#
 most arrant coward. Not only my courage but my strength
 failed me in every danger; and I often rose from my bed in
 the morning in such a panic that it took some time to get
@@ -800,6 +807,7 @@ I have slept on horseback, but so as to preserve my balance;
 and if the horse stumbled, I could make the exertion necessary
 to save me from a fall, as if I was awake.'
 #/
+
 -----File: 026.png---\Hobo-04\gaston\seowphm\F E H\Jo-Anne43\--------------
 
 In all this one detects the disposition to sober introspection,
@@ -842,11 +850,7 @@ tryal and was approved. And the presbytery taking into
 consideration that he, having passed his course in Arts at the
 College, and thereafter having studied Divinity for the space
 of [**how many spaces should be left for unknown number of years?/F2][1] years, as also having resided for the whole of this
-#/
-
-[Footnote 1: The number is, unfortunately, unrecorded.]
 -----File: 027.png---\philwm47\gaston\seowphm\F E H\Jo-Anne43\-------------
-/#
 time within the bounds of this presbytery; and they looking
 upon him as a person fit to be entered upon tryals, and also
 having had sufficient testimonials from the professors of
@@ -857,6 +861,8 @@ and having passed through all the parts thereof, he was licensed
 by the said presbytery to preach the Gospel of Christ, and
 exercise his gifts as a probationer for the holy ministry.'
 #/
+
+[Footnote 1: The number is, unfortunately, unrecorded.]
 
 On the 2nd of August 1732, 'the Presbytery chose Mr.
 Thomas Reid to be their Clerk.' On the 5th of October
@@ -882,8 +888,6 @@ was an acceptable retreat for research, and a mark of
 esteem from the College. Mr. Rose, Reid's brother-in-law,
 says that he then studied Newton's <i>Principia</i> and Locke's
 <i>Essay</i>.[1] Again a parallel between Reid and Kant. Some
-
-[Footnote 1: Birkwood <sc>MSS.</sc>]
 -----File: 028.png---\philwm47\gaston\seowphm\F E H\Hermit00\--------------
 time after Kant had taken his degree he was made librarian
 in the Schloss Library, with a yearly stipend of about £10.
@@ -892,6 +896,8 @@ of £9 at Aberdeen, a pittance which was for a time
 suspended by threatened litigation. He was in active
 service as librarian till 1736, and for two years more in
 possession, 'on leave of absence, with a substitute.'
+
+[Footnote 1: Birkwood <sc>MSS.</sc>]
 
 The need for a 'substitute' in 1736 can be explained.
 In that year, for the first time, Reid is found outside Scotland.
@@ -941,11 +947,13 @@ the character reflected in their books.
 
 
 
+/f
 CHAPTER III
 
 NEW MACHAR AND DAVID HUME
 
 1737-1751
+f/
 
 
 Soon after Reid's return to Marischal College from his
@@ -1004,9 +1012,6 @@ beneficent activity. Those who had been carried into
 outrage by hasty judgment at the beginning, followed
 him on his departure with blessings and tears. 'We
 fought against Mr. Reid when he came,' they are reported
-
-[Footnote 1: In <i>Scotland and Scotsmen of the Eighteenth Century</i>, by Ramsay
-of Ochtertyre, there is an interesting account of this Mr. Bisset.]
 -----File: 032.png---\Hobo-04\gaston\seowphm\F E H\Hermit00\---------------
 as saying, 'and we would have fought for him when he
 went away.' His marriage, in August 1740, to his cousin
@@ -1038,6 +1043,9 @@ at Edinburgh August 30, 1782; (9) Elizabeth, born May 8,
 1766, died June 1, 1767, of smallpox by inoculation, buried
 in the College Churchyard, Glasgow.'
 #/
+
+[Footnote 1: In <i>Scotland and Scotsmen of the Eighteenth Century</i>, by Ramsay
+of Ochtertyre, there is an interesting account of this Mr. Bisset.]
 
 The story of the fifteen years at New Machar, as we
 have it, is almost empty of incidents, a dim picture.
@@ -1122,9 +1130,7 @@ to pamper and feed them in various instances. For these and
 many other sins which have escaped my memory Thou mightst
 justly inflict so great a chastisement on me, as to make my
 children motherless and deprive me of my dear wife. O Lord,
-#/
 -----File: 035.png---\philwm47\Kasa\seowphm\F E H\Hermit00\----------------
-/#
 accept of my humble and penitent confession of these my
 offences, which I desire to acknowledge with shame and sorrow,
 and am resolved by Thy grace to amend. If Thou art pleased
@@ -1162,9 +1168,9 @@ in his thirty-eighth year, he made his first appearance in
 print, in a short paper contributed to the Royal Society,
 which appeared in their <i>Transactions</i> in October 1748. It
 is called 'An Essay on Quantity.' It was occasioned by a
-book published more than twenty years before, the <i>Inquiry</i>
+book published more than twenty years before, the <i>Inquiry
 -----File: 036.png---\philwm47\Kasa\seowphm\F E H\Hermit00\----------------
-<i>into the Original of our Ideas of Beauty and Virtue</i>, by
+into the Original of our Ideas of Beauty and Virtue</i>, by
 Francis Hutcheson, afterwards the celebrated Professor of
 Moral Philosophy in Glasgow. In this tract simple and
 compound ratios are applied, in forms of mathematical
@@ -1302,9 +1308,7 @@ destructive analysis:--
 'I am affrighted and confounded with the forlorn solitude in
 which I am placed by my philosophy. When we trace up the
 human understanding to its first principles, we find it to lead
-#/
 -----File: 040.png---\philwm47\Kasa\seowphm\F E H\Hermit00\----------------
-/#
 us into such sentiments as seem to turn into ridicule all our
 past pains and industry, and to discourage us from all future
 inquiries. Nothing is more curiously inquired after by the
@@ -1414,11 +1418,13 @@ and Scotsmen.</i>
 
 
 
+/f
 CHAPTER IV
 
 OLD ABERDEEN: A REGENT IN KING'S COLLEGE
 
 1751-1764
+f/
 
 
 Reid's movement from New Machar to the academic home
@@ -1429,12 +1435,12 @@ College, founded by Bishop Elphinstone, and at first presided
 over by Hector Boece, with its chapel and crowned tower,
 in the
 
-/*
+/P
                 old university town,
 Between the Don and the Dee,
 Looking over the grey sand dunes,
 Looking out on the cold North Sea,
-*/
+P/
 
 has shed intellectual light over the North of Scotland,
 especially among the Celts in the Highlands. At King's
@@ -1479,11 +1485,6 @@ College chapel rose almost in front of the manse, the rival of
 St. Giles's at Edinburgh and of St. Nicholas's at Newcastle,
 unique in Scottish academical architecture. Eastwards
 in the quadrangle was the Hall in which the students
-
-[Footnote 1: While he lived here, he seems to have retained the incumbency
-of New Machar till May 1752.]
-
-[Footnote 2: Long ago removed. I have an engraving of it.]
 -----File: 045.png---\philwm47\Kasa\seowphm\F E H\Hermit00\----------------
 dined, a memorial of Bishop Elphinstone, and the dormitories
 of the students, which were of later date. General
@@ -1491,6 +1492,11 @@ Monk's tower stood in the eastern corner; behind the
 Hall was the kitchen, and near it the College well, whence
 the links stretched to the shore, 'the grey sand dunes' in
 those days unbroken by tame streets and modern villas.
+
+[Footnote 1: While he lived here, he seems to have retained the incumbency
+of New Machar till May 1752.]
+
+[Footnote 2: Long ago removed. I have an engraving of it.]
 
 <tb>
 
@@ -1768,10 +1774,6 @@ It is interesting to find in the records of the Society
 the subjects of the dissertations contributed by Reid during
 the six years in which he was its mainspring,[1] as well as
 the questions which he proposed for debate. They signally
-
-[Footnote 1: These <sc>MS.</sc> dissertations have been lately recovered, and I have thus
-been able to compare them with the <i>Inquiry</i>, in which I find them
-mostly embodied.]
 -----File: 053.png---\philwm47\Hobo-04\seowphm\F E H\Hermit00\-------------
 illustrate the course of his thoughts in these years. On May
 24, 1758, 'Mr. Reid intimat that he designed as the subject
@@ -1804,6 +1806,10 @@ press, along with some other discourses which he had read
 before the Society.' A minute on 28th October 1764
 announces that, 'as Dr. Reid has left this country, no discourse
 is to be expected from him.'
+
+[Footnote 1: These <sc>MS.</sc> dissertations have been lately recovered, and I have thus
+been able to compare them with the <i>Inquiry</i>, in which I find them
+mostly embodied.]
 
 The following Questions for debate were proposed by Reid
 -----File: 054.png---\philwm47\Hobo-04\seowphm\F E H\Hermit00\-------------
@@ -1844,9 +1850,7 @@ of Man</i>, and an <i>Inquiry into Human Nature on the Principles
 of Common Sense</i>. I have shown that all genuine
 reasoning does ultimately terminate in principles which it is
 impossible to disbelieve, and as impossible to prove; that,
-#/
 -----File: 055.png---\philwm47\75wisconsin\seowphm\F E H\Hermit00\---------
-/#
 therefore, the ultimate standard of truth to us is Common
 Sense, or that instinctive conviction into which all true reasoning
 does resolve itself; that therefore what contradicts Common
@@ -1885,15 +1889,15 @@ agnosticism in the person of David Hume.
 
 
 
+/f
 CHAPTER V
 
-/#
 UNIVERSAL SCEPTICISM VERSUS INSPIRED COMMON SENSE:
 AN 'INQUIRY INTO THE HUMAN MIND ON THE
 PRINCIPLES OF COMMON SENSE'
-#/
 
 1764
+f/
 
 
 As early as October 1762, as we have seen, Reid had given
@@ -1950,8 +1954,6 @@ on a slender foundation; Spinoza, younger still,
 with his rational evolution of the universe from a single
 substance; Berkeley with his analysis of the material world
 into significant ideas, delivered at the age of twenty-five
-
-[Footnote 1: Birkwood <sc>MS.</sc>]
 -----File: 058.png---\Hobo-04\75wisconsin\seowphm\F E H\Hermit00\----------
 with the impetuous enthusiasm of Irish juvenile genius;
 and David Hume with his universal disintegration of
@@ -1962,6 +1964,8 @@ with his 'good and well-wearing parts,' characteristically
 represents the restrained authorship of those who treat our
 short life on this planet as short enough for well-weighed
 answers to the final questions about life and the universe.
+
+[Footnote 1: Birkwood <sc>MS.</sc>]
 
 As Reid's <i>Inquiry</i> was really an appeal to human nature
 in arrest of Hume's intellectual suicide, he desired, before
@@ -1991,11 +1995,9 @@ did I not suspect that they arise from my not sufficiently
 understanding it. I shall therefore forbear till the whole can
 lie before me, and shall not at present propose any further
 difficulties to your reasonings. I shall only say that if you
-have been able to clear up these abstruse and important sub-*
-#/
+have been able to clear up these abstruse and important subjects,
 -----File: 059.png---\joeypoz17\75wisconsin\seowphm\F E H\Hermit00\--------
-/#
-*jects, instead of being mortified, I shall be so vain as to pretend
+instead of being mortified, I shall be so vain as to pretend
 to a share of the praise; and shall think that my errors, by
 having at least some coherence, have led you to make a more
 strict review of my principles, which were the common ones,
@@ -2007,6 +2009,7 @@ philosophy owes to the sceptical criticism of Hume. He
 writes thus to Hume:--
 
 /#
+
 /*
 '<sc>King's College</sc>, <i>18th March 1763</i>.
 */
@@ -2042,6 +2045,7 @@ seen the whole of my performance, I shall take it as a very great
 favour to have your opinion upon it, from which I make no
 doubt of receiving light, whether I receive conviction or no.'
 #/
+
 -----File: 060.png---\skippymelim\Kasa\seowphm\F E H\Hermit00\-------------
 
 Hume's philosophy being the suicide of intelligence, can
@@ -2145,12 +2149,12 @@ The personal pronoun 'I,' as well as the personal pronoun
 last, not merely into sensations that are all referable to
 myself, but into sensations without any self--into isolated
 sensations--which seem indeed to follow one another in
-
-[Footnote 1: I have elsewhere discussed the true meaning of Berkeley's philosophy.]
 -----File: 063.png---\skippymelim\Kasa\ellinora\F E H\Hermit00\------------
 an orderly way, but without any guarantee that the seeming
 order is more than transitory, or that the illusory cosmos
 may not at any moment become chaos.
+
+[Footnote 1: I have elsewhere discussed the true meaning of Berkeley's philosophy.]
 
 Is there nothing within the resources of reason to arrest
 this intellectual suicide? Has reason got anything to show
@@ -2325,9 +2329,7 @@ which the common sense of human nature refuses to reject:--
 /#
 'Suppose I am pricked with a pin, I ask, is the <i>pain</i> I feel a
 sensation? Undoubtedly it is. There can be nothing that
-#/
 -----File: 068.png---\philwm47\AndrewH\Eevee\F E H\Hermit00\---------------
-/#
 resembles pain in an inanimate thing: the pain must be in me,
 a living being. But I ask again, is the <i>pin</i> a sensation? To
 this question I feel myself under a necessity of answering that
@@ -2470,12 +2472,14 @@ perceptions introduce us.
 
 
 
+/f
 CHAPTER VI
 
 GLASGOW COLLEGE: THE PROFESSOR OF
 MORAL PHILOSOPHY
 
 1764-1780
+f/
 
 
 In November 1764 we find Reid, now almost fifty-five years
@@ -2499,11 +2503,11 @@ was 'not without reluctance,' we are told, that he consented
 to tear himself from a spot where he had so long been
 fastening his roots; and much as he loved the society in
 which he passed the remainder of his days, the advantages
-
-[Footnote 1: Between the College and the Cathedral, diverging to the east.]
 -----File: 073.png---\philwm47\eyecrochet\Eevee\F E H\Hermit00\------------
 of the change hardly compensated for the sacrifice of feeling
 caused by the break in his early habits and associations.
+
+[Footnote 1: Between the College and the Cathedral, diverging to the east.]
 
 Glasgow in 1898 is even more changed from Glasgow in
 1764 than Aberdeen when Reid lived in it from Aberdeen
@@ -2752,9 +2756,7 @@ Drygate home a few weeks after the family entered it:--
 /#
 'I must launch forth in the morning, so as to be at the
 College (which is a walk of eight minutes) half an hour after
-#/
 -----File: 080.png---\philwm47\Kiki_Jo\Eevee\F E H\Hermit00\---------------
-/#
 seven, when I speak for an hour without interruption to an
 audience of about a hundred. At eleven I examine for an hour
 upon my morning prelection; but my audience is a little
@@ -2796,9 +2798,7 @@ to a neat little dining-room, and find as many other little rooms
 as just accommodate my family; so scantily that my apartment
 is a closet of six feet by eight or nine off the dining-room.
 To balance these little inconveniences, the house is new and
-#/
 -----File: 081.png---\philwm47\Kiki_Jo\Eevee\F E H\Hermit00\---------------
-/#
 free of buggs; it has the best air and finest prospect in Glasgow;
 the privilege of a large garden, very airy, to walk in,
 which is not so nicely kept, but one may use freedom with it.
@@ -2842,9 +2842,7 @@ July 1765:--
 /#
 'I have a strong inclination to attend the chymical lecture
 the next winter; but am afraid I shall not have time. I have
-#/
 -----File: 082.png---\philwm47\shawnw\Horatius\F E H\Hermit00\-------------
-/#
 had but very imperfect hints of Dr. Black's theory of fire....
 Chemistry seems to be the only branch of philosophy that can
 be said to be in a progressive state here, although other
@@ -2886,11 +2884,7 @@ number of our students of one kind or another may be between
 four and five hundred. But the College at Edinburgh is increased
 this year much more than we are. The Moral Philosophy
 class there is more than double ours. The Professor,
-#/
-
-[Footnote 1: Watt began those experiments in Glasgow about 1763.]
 -----File: 083.png---\philwm47\shawnw\Horatius\F E H\Hermit00\-------------
-/#
 Ferguson, is indeed, as far as I can judge, a man of a noble
 spirit, of very elegant manners, and has an uncommon flow of
 eloquence. I hear he is about to publish, I don't know under
@@ -2904,6 +2898,8 @@ Pegie[** 'Peggie' is common for 'Margaret' - is this typo?], and I, have all had
 been keeping the house these two days in order to get the
 better of it.'
 #/
+
+[Footnote 1: Watt began those experiments in Glasgow about 1763.]
 
 On 'December 30th, 1765,' a less sanguine view appears,
 in a letter to Andrew Skene:--
@@ -2933,9 +2929,7 @@ seems to put us in a ferment, and I am afraid will produce bad
 consequences. The temper of our northern Colonies makes
 mercantile people here look very grave. It is said that the
 effects in these colonies belonging to this town amount to above
-#/
 -----File: 084.png---\philwm47\Kasa\Horatius\F E H\Hermit00\---------------
-/#
 £400,000.[1] The mercantile people are for suspending the
 Stamp-act, and redressing the grievances of the colonists....
 In what light the House of Commons will view this matter I
@@ -2977,10 +2971,6 @@ A minute account of Black's theory of latent heat follows.
 
 Later in the same year, Black was called to the Chair of
 Chemistry in Edinburgh, which he filled for nearly thirty
-
-[Footnote 1: The American revolt was a severe stroke to Glasgow at the time,
-though it led to a great development of manufactures in the city afterwards.
-See Colville's <i>By-Ways of History</i> (1897), pp. 281-314.]
 -----File: 085.png---\philwm47\Kasa\Horatius\F E H\Hermit00\---------------
 years, and in Reid's letters to the Skenes there is much
 about candidates for the vacant office in Glasgow, with a
@@ -2994,6 +2984,10 @@ before dinner; has all the afternoon there, and returns to
 dinner at Glasgow next day; so that if you have any ambition
 to get into the College of Edinburgh (which I think you
 ought to have), I conceive Glasgow would be a good step.'
+
+[Footnote 1: The American revolt was a severe stroke to Glasgow at the time,
+though it led to a great development of manufactures in the city afterwards.
+See Colville's <i>By-Ways of History</i> (1897), pp. 281-314.]
 
 The appeal was ineffectual. Meantime his own appointment,
 as an 'examinator' of candidates for the vacant Mathematical
@@ -3017,17 +3011,15 @@ against the month of August. There is one candidate for your
 profession of mathematics to go from this College; and if your
 College get a better man, or a better mathematician, they will
 be very lucky.[1] I am so sensible of the honour the Magistrates
+-----File: 086.png---\philwm47\Kasa\WebRover\F E H\Hermit00\---------------
+have done me in naming me to be one of the examinators, that
+I will not decline it, though I confess I like the honour better
+than the office.'
 #/
 
 [Footnote 1: William Traill, a Glasgow graduate, was elected. Playfair (of
 St. Andrews), afterwards Professor John Playfair of Edinburgh, was
 also a candidate, then only eighteen.]
------File: 086.png---\philwm47\Kasa\WebRover\F E H\Hermit00\---------------
-/#
-have done me in naming me to be one of the examinators, that
-I will not decline it, though I confess I like the honour better
-than the office.'
-#/
 
 In the autumn of 1766 Reid exchanged the house in the
 Drygate for an official residence in the Professors' Court
@@ -3066,14 +3058,7 @@ find in my heart to bestow the money first. I have the more
 use for a machine of this kind, because my alembic for performing
 these operations--I mean my cranium--has been a
 little out of order this winter, by a vertigo, which has made
-#/
-
-[Footnote 1: The Bell of the Brae.]
-
-[Footnote 2: The Forth and Clyde Canal was commenced in 1768 and opened
-from sea to sea in 1790.]
 -----File: 087.png---\Hobo-04\Kasa\WebRover\F E H\Hermit00\----------------
-/#
 my studies go on heavily, though it has not hitherto interrupted
 my teaching. I have found air and exercise and a clean
 stomach the best remedies; but I cannot command the two
@@ -3082,6 +3067,11 @@ a crowded class is bad, and often thought of carrying my class
 to the Common Hall; but I was afraid it might have been construed
 as a piece of ostentation.'
 #/
+
+[Footnote 1: The Bell of the Brae.]
+
+[Footnote 2: The Forth and Clyde Canal was commenced in 1768 and opened
+from sea to sea in 1790.]
 
 Reid's letter of condolence to Dr. David Skene on the
 death of his father, in September 1767, mentions the loss
@@ -3383,11 +3373,6 @@ Appeal to Common Sense</i>. He played upon the term 'common
 sense,' and took for granted that the aim of the
 triumvirate was to substitute mere feeling and authority for
 reason,--the authority of the multitude for that of the
-
-[Footnote 1: Kant's uncritical identification of Reid's philosophical appeal to
-the common rational sense with the popular appeal and declamation
-of Oswald and even Beattie, is exposed by Professor Sidgwick in
-<i>Mind</i> (April 1895).]
 -----File: 096.png---\philwm47\Tantalo\Eevee\F E H\Hermit00\---------------
 philosophical elect,--alleging blind instinct when unable to
 produce argument, and multiplying instincts to suit each
@@ -3431,6 +3416,11 @@ the effects of their own objects; and on the whole a
 necessitated system of the universe, which excluded morally
 responsible agency.
 
+[Footnote 1: Kant's uncritical identification of Reid's philosophical appeal to
+the common rational sense with the popular appeal and declamation
+of Oswald and even Beattie, is exposed by Professor Sidgwick in
+<i>Mind</i> (April 1895).]
+
 Reid made no reply at the time to this argumentative
 discharge. In an unpublished letter to Dr. Price he gives
 a reason for his silence. 'I will not answer Dr. Priestley,[**']
@@ -3458,11 +3448,7 @@ if two or three such beings should be formed out of my brain,
 whether they will all be <i>me</i>, and consequently be all one and
 the same intelligent being. This seems to me a great mystery;
 but Dr. Priestley denies all mysteries.... I am not surprised
-#/
-
-[Footnote 1: Birkwood <sc>MSS.</sc>]
 -----File: 098.png---\philwm47\Tantalo\Eevee\F E H\Hermit00\---------------
-/#
 that your lordship has found little entertainment in a late
 French writer on human nature. From what I learn the
 French philosophers are become rank Epicureans. I detest
@@ -3480,6 +3466,8 @@ I think the atheist acts the most consistent part of the two;
 for surely such views of human nature tend more to promote
 atheism than to promote religion and virtue.'
 #/
+
+[Footnote 1: Birkwood <sc>MSS.</sc>]
 
 This allusion to contemporary French philosophers is
 almost the only one I find in Reid. The chief works of
@@ -3567,8 +3555,6 @@ condemn him for being a devil,' is in a letter to Lord Kames.[1]
 The impotence of matter rather than its independence
 is now insisted on; with the inference that at any rate
 <i>it</i> cannot cause our perceptions, as Priestley supposed.
-
-[Footnote 1: Birkwood <sc>MSS.</sc>]
 -----File: 101.png---\Hobo-04\Remotely\MilochGermany\F E H\Hermit00\-------
 He begins to see that power must be referred to mind
 or spirit alone, and that matter is powerless. 'Efficient
@@ -3581,6 +3567,8 @@ theology to show the Power that continues and gives
 motion to the whole; according to laws which the
 naturalist discovers, and perhaps according to laws still
 more general.'
+
+[Footnote 1: Birkwood <sc>MSS.</sc>]
 
 <tb>
 
@@ -3639,11 +3627,13 @@ to generations of Glasgow students.
 
 
 
+/f
 CHAPTER VII
 
 PHILOSOPHICAL RETIREMENT: AUTHORSHIP IN OLD AGE
 
 1780-1795
+f/
 
 
 Dugald Stewart, when illustrating the changes in human
@@ -3837,16 +3827,16 @@ another. The impression upon the mind is conceived to
 be something wherein the mind is altogether passive. But
 this is a hypothesis which contradicts the common sense
 of mankind. When I look upon the wall of my room, the
-
-[Footnote 1: <i>The World as Will and Idea</i>, translated by Mr. Haldane and
-Mr. Kemp, ii. 240. Schopenhauer makes other interesting references
-to Reid.]
 -----File: 109.png---\hugger1935\Kiki_Jo\Yosemite_Don\F E H\Hermit00\------
 wall does not act at all, nor is capable of acting: the
 perceiving it is an act or operation in me.' In short, the
 relation between perceptions and their objects is a unique
 relation, not to be confounded with the causal, the only
 causality involved being the percipient power that is in me.
+
+[Footnote 1: <i>The World as Will and Idea</i>, translated by Mr. Haldane and
+Mr. Kemp, ii. 240. Schopenhauer makes other interesting references
+to Reid.]
 
 Those <i>Essays</i> of Reid which treat of the constituents of
 the common sense that are implied in the Intellect power of
@@ -3879,9 +3869,7 @@ be much entertained with this work, which does great honour
 to the sagacity and patience of the author. It contains the
 principles of his <i>Inquiry</i>, laid down on a larger scale, and
 applied to a greater variety of subjects. Dr. Reid treats his
-#/
 -----File: 110.png---\hugger1935\Kiki_Jo\Yosemite_Don\F E H\Hermit00\------
-/#
 opponents and their tenets with a respect and a solemnity that
 sometimes tempt me to smile. His style is clear and simple;
 and his aversion to the word <i>idea</i> is so great, that I think he
@@ -3925,10 +3913,8 @@ he makes of it led me to consider it a good many years ago,
 and I have a strong suspicion that there is some fallacy in it,
 which has imposed on men's understandings, owing to the
 ambiguity of the word <i>conceive</i>.
-#/
 -----File: 111.png---\hugger1935\Kiki_Jo\Yosemite_Don\F E H\Hermit00\------
 
-/#
 'As to the history of this axiom, I suspect it to have taken
 its rise from what Descartes laid down as the criterion of truth,
 which he maintained to be clear and distinct conception.
@@ -3973,9 +3959,7 @@ the question.
 
 'If this be the meaning of conceiving a proposition to be
 true, then the meaning of the axiom will be, that a proposition
-#/
 -----File: 112.png---\hugger1935\Kiki_Jo\Eevee\F E H\Hermit00\-------------
-/#
 which appears to us to have any degree of probability, however
 small, must at least be possible. But the axiom, taken in this
 sense, is surely false. It would be superfluous to give instances
@@ -4020,9 +4004,7 @@ be possible. We are apt to think it possible that God might
 have made an universe of sensible and rational creatures, into
 which neither natural nor moral Evil should ever enter. It
 may be so for what I know. But how are you certain that this
-#/
 -----File: 113.png---\hugger1935\Kiki_Jo\Eevee\F E H\Hermit00\-------------
-/#
 is possible? I can distinctly conceive it, say you; therefore it
 is possible. I do not admit this argument. May not a man
 who is a mathematician as distinctly conceive that in the
@@ -4135,12 +4117,12 @@ Burke, who shortly before had been Rector of Glasgow
 University, his hope gave place to fear. It is interesting that
 it was the <i>Vindiciæ Gallicæ</i> of Sir James Mackintosh that had
 inspired him with the hope; for, according to his daughter,
-
-[Footnote 1: Birkwood <sc>MSS.</sc>]
 -----File: 116.png---\hugger1935\Kiki_Jo\WebRover\F E H\Hermit00\----------
 Mrs. Carmichael, he was struck with admiration on reading
 the book, and used often to speak of it as one of the most
 ingenious essays in political philosophy he had ever met with.
+
+[Footnote 1: Birkwood <sc>MSS.</sc>]
 
 Jeremy Bentham as well as Mackintosh was known to
 Reid by his writings, as appears in this letter to Dr. Gregory,
@@ -4217,10 +4199,12 @@ death Mrs. Carmichael went to live at Aberdeen.
 
 
 
+/f
 CHAPTER VIII
 
 INSPIRED COMMON SENSE AND CAUSATION: ACTIVE OR
 MORAL POWER IN MAN
+f/
 
 
 Philosophical recognition of the genuine Common Sense
@@ -4317,11 +4301,7 @@ on Power:--
 'Power to produce an effect supposes power not to produce
 it; otherwise it is not power but necessity, which is incompatible
 with power taken in a strict sense.... I am not able
-#/
-
-[Footnote 1: See also Reid's <i>Essays on the Active Powers</i>, I. 1-6, and <i>passim</i>.]
 -----File: 121.png---\hugger1935\Kiki_Jo\Eevee\F E H\Hermit00\-------------
-/#
 to form a conception how power (in the strict sense) can be
 exerted without will; nor can there be will without some
 degree of understanding. Therefore nothing can be an
@@ -4364,9 +4344,7 @@ that to maintain that He is no cause at all would be too
 shocking. To say that the world exists <i>without a cause</i> would
 be accounted atheism, in spite of all explanations.... The
 words agent and action are less ambiguous. We say one <i>body</i>
-#/
 -----File: 122.png---\hugger1935\eyecrochet\Eevee\F E H\Hermit00\----------
-/#
 acts upon another; and in vain would one attempt to abolish
 this language. To remedy this ambiguity of "cause" and
 "agent," I say that each of these words has two meanings--a
@@ -4394,6 +4372,8 @@ their new notions as well as they can; just as philosophers
 still say with the vulgar, that the sun "rises" and "sets."'
 #/
 
+[Footnote 1: See also Reid's <i>Essays on the Active Powers</i>, I. 1-6, and <i>passim</i>.]
+
 That morally responsible intending Will is our ultimate
 conception of Power or Cause, properly so called, is not
 less the lesson of the Birkwood manuscript 'On Power'
@@ -4409,9 +4389,7 @@ matter, it must be in some popular or analogical sense, but not
 in the proper sense. There can be no productive power in an
 inanimate object.... A cause is that which has power to
 produce an effect. When we ascribe power to things inanimate
-#/
 -----File: 123.png---\hugger1935\eyecrochet\Eevee\F E H\Hermit00\----------
-/#
 as causes, we mean nothing more than a constant conjunction
 by the laws or rules of nature, which experience discovers.
 Thus we say that the sun has power to retain the planets
@@ -4486,9 +4464,7 @@ human soul receives much of its information by bodily organs:
 God's knowledge of all things is immediate and not dependent
 on bodily organs; (4) our power over our own bodies is limited:
 the power of God over the universe is unlimited; (5) our
-#/
 -----File: 125.png---\hugger1935\eyecrochet\MilochGermany\F E H\Hermit00\--
-/#
 bodies are wholly made up of inert and soulless matter: the
 universe is stored with various orders of living beings and free
 agents, subject to the Divine Power as their moral governor
@@ -4507,9 +4483,11 @@ universe of things and persons.
 
 
 
+/f
 CHAPTER IX
 
 THE END--1796
+f/
 
 
 In the last winter of his life Reid read an interesting discourse
@@ -4543,9 +4521,9 @@ good men. It is the consolation of old age, and more than
 sufficient to make its infirmities sit light.'
 #/
 
-The dissolution of the material organism which for eighty-*
+The dissolution of the material organism which for eighty-*six
 -----File: 127.png---\hugger1935\eyecrochet\MilochGermany\F E H\Hermit00\--
-*six years had served the writer of these words was now near.
+years had served the writer of these words was now near.
 Of his few early philosophical associates, Campbell and
 Beattie only were alive at the beginning of 1796, and in
 April of that year Campbell died. Reid followed him
@@ -4664,11 +4642,9 @@ learning. By unravelling sceptical perplexities, overturning ill-*founded
 hypotheses, and resting every conclusion on evident
 principles, he has brought about a memorable revolution in the
 Philosophy of Human Nature. His character through life was
-distinguished by an ardent love of truth, and an assiduous pur-*
-#/
+distinguished by an ardent love of truth, and an assiduous pursuit
 -----File: 130.png---\hugger1935\eyecrochet\Chris Whitehead\F E H\Hermit00\-
-/#
-*suit of it in various sciences; by the most amiable simplicity
+of it in various sciences; by the most amiable simplicity
 of manners, gentleness of temper, strength of affection, candour,
 and liberality of sentiments, which displayed themselves in the
 habitual exercise of all the social virtues; and by steadiness,
@@ -4711,9 +4687,7 @@ wisdom and goodness of his life. He used sometimes to say,
 be useful," though at that very time he was acquiring and communicating
 useful knowledge. During his last illness, which
 was severe, he complained of nothing but the trouble that he
-#/
 -----File: 131.png---\hugger1935\eyecrochet\Chris Whitehead\F E H\Hermit00\-
-/#
 gave his affectionate family, and he looked to the grave as a
 place not of rest merely but of triumph.'
 #/
@@ -4775,9 +4749,11 @@ of its scope, were more favourable.
 
 
 
+/f
 CHAPTER X
 
 RETROSPECTIVE AND CRITICAL
+f/
 
 
 We find truth, as Pascal says, not only by logical reasoning
@@ -4838,9 +4814,9 @@ critics complain of Reid's lazy arrest of philosophy at
 the level of ordinary beliefs. Besides this, what Reid
 claims as 'the chief merit of his philosophy'--that of
 questioning the common assumption that external things
-cannot present themselves in our perceptions, but only un-*
+cannot present themselves in our perceptions, but only unauthenticated
 -----File: 135.png---\hugger1935\Kiki_Jo\Alianne\F E H\Hermit00\-----------
-*authenticated representations of them--proceeds, according
+representations of them--proceeds, according
 to Priestley, on a misinterpretation of the metaphorical
 language of philosophers: to refute it is an idle waste of
 controversial labour, taking figures of speech for serious
@@ -5077,9 +5053,9 @@ the material world--all objects of my senses--unlike my
 proper personality, which is approached only through the
 inner consciousness, and not at all through perception of
 the senses. Here, too, Reid protests on behalf of the
-genuine common sense, and against the scientifically per-*
+genuine common sense, and against the scientifically perverted
 -----File: 142.png---\hugger1935\LindyGal\Alianne\F E H\Hermit00\----------
-*verted common sense offered to him by Priestley. For
+common sense offered to him by Priestley. For
 the distinctive feature of Reidism is not vague acknowledgment
 of the common sense, but acknowledgment of it as
 it is found to be when steadfast reflection is applied to
@@ -5134,14 +5110,14 @@ in the century which has passed since he died.
 
 
 
+/f
 CHAPTER XI
 
-/#
 REID IN THE NINETEENTH CENTURY: DEVELOPMENT OF
 THE COMMON SENSE PHILOSOPHY: REID IN FRANCE:
 REID AND HAMILTON: REID AND SCOTO-HEGELIAN
 IDEALISM: ETHICAL OR THEISTIC FINAL FAITH
-#/
+f/
 
 
 How has Reid's protest of reason in the name of common
@@ -5234,9 +5210,9 @@ practice he had been the colleague of Dr. Gregory, Reid's
 cousin, and so long his correspondent. Brown, unlike
 Reid, was one of the precocious philosophers. At the
 age of twenty he appeared as a critic of the <i>Zoonomia</i> of
-Darwin, and a few years later as author of an <i>Inquiry into</i>
+Darwin, and a few years later as author of an <i>Inquiry into
 -----File: 147.png---\hugger1935\LindyGal\Eevee\F E H\Hermit00\------------
-<i>the Relation of Cause and Effect</i>, which contains the essence
+the Relation of Cause and Effect</i>, which contains the essence
 of the philosophy that was afterwards expanded and applied
 in his <i>Lectures</i>. He died at the age of forty-two, leaving
 works undistinguished by the deep and patient thought of
@@ -5408,9 +5384,9 @@ account of the Common Sense as involved in perception
 of the outward things of sense.
 
 The respective offices of Reid and Hamilton might be
-compared in this aphorism of Pascal--'<i>La Nature soutient</i>
+compared in this aphorism of Pascal--'<i>La Nature soutient
 -----File: 152.png---\hugger1935\LindyGal\Quister\F E H\Hermit00\----------
-<i>la Raison impuissante</i>.' Need for the common sense with
+la Raison impuissante</i>.' Need for the common sense with
 which human nature is charged, illustrates the impotence
 of man's unomniscient understanding and limited share of
 the Divine Reason. Taking those words of Pascal, Reid
@@ -5511,9 +5487,9 @@ intellectual constructions which seemed to be superseding
 the common sense of human nature, as the human response
 to the sceptic or agnostic, whose philosophical knowledge
 turned all knowledge into ignorance at the last. Reid was
-too human to be satisfied with merely physical generalisa-*
+too human to be satisfied with merely physical generalisations
 -----File: 155.png---\hugger1935\LindyGal\Quister\F E H\Hermit00\----------
-*tions of sequences and co-existences of phenomena, finally
+of sequences and co-existences of phenomena, finally
 unintelligible, and therefore unworthy of trust; and he would
 have been too cautious to accept a network of abstract
 intellectual necessities, latent in the universe, as the last
@@ -5682,12 +5658,9 @@ The human office of inspired common sense or ethical
 reason, final for beings whose 'knowledge' must be intermediate
 between omniscience and blind ignorance of mere
 sense and feeling, is its tacit philosophy--
-
-[Footnote 1: So in the 'Preliminary Notice,' in the new edition of Dr. Stirling's
-<i>Secret of Hegel</i>--last paragraph.]
 -----File: 160.png---\hugger1935\LindyGal\Quister\F E H\Hermit00\----------
 
-/*
+/P
   'Our wills are <i>ours</i>, we know not how,
 Our wills are ours, to make them Thine.
 
@@ -5702,7 +5675,10 @@ Let knowledge grow from more to more,
 May make one music as before,
 
 But vaster.'
-*/
+P/
+
+[Footnote 1: So in the 'Preliminary Notice,' in the new edition of Dr. Stirling's
+<i>Secret of Hegel</i>--last paragraph.]
 
 Our scientific interpretation of the ever-changing universe
 at last rests on ethical theistic faith, and the Christian
