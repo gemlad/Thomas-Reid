@@ -640,9 +640,9 @@ facts of human nature for logical deduction from abstract
 dogmas. 'If a fact be actually found, either in the outer
 world of sensible things, or in the inner and invisible world
 of mind, there is no room for reasoning against it. Every
-reasoning, however subtle, if it be repugnant in its con-*
+reasoning, however subtle, if it be repugnant in its conclusion
 -----File: 022.png---\Hobo-04\gaston\seowphm\F E H\Jo-Anne43\--------------
-*clusion to the actual fact of the case, must be sophistical.'
+to the actual fact of the case, must be sophistical.'
 Turnbull is fond of repeating that facts presented to the
 senses are not the only, nor yet the most important, facts
 which the universe contains. The invisible facts which
@@ -883,7 +883,7 @@ esteem from the College. Mr. Rose, Reid's brother-in-law,
 says that he then studied Newton's <i>Principia</i> and Locke's
 <i>Essay</i>.[1] Again a parallel between Reid and Kant. Some
 
-[Footnote 1: Birkwood <sc>MSS.</sc>]
+[Footnote 1: Birkwood <sc>MSS</sc>.]
 -----File: 028.png---\philwm47\gaston\seowphm\F E H\Hermit00\--------------
 time after Kant had taken his degree he was made librarian
 in the Schloss Library, with a yearly stipend of about £10.
@@ -1162,9 +1162,9 @@ in his thirty-eighth year, he made his first appearance in
 print, in a short paper contributed to the Royal Society,
 which appeared in their <i>Transactions</i> in October 1748. It
 is called 'An Essay on Quantity.' It was occasioned by a
-book published more than twenty years before, the <i>Inquiry</i>
+book published more than twenty years before, the <i>Inquiry
 -----File: 036.png---\philwm47\Kasa\seowphm\F E H\Hermit00\----------------
-<i>into the Original of our Ideas of Beauty and Virtue</i>, by
+into the Original of our Ideas of Beauty and Virtue</i>, by
 Francis Hutcheson, afterwards the celebrated Professor of
 Moral Philosophy in Glasgow. In this tract simple and
 compound ratios are applied, in forms of mathematical
@@ -1991,11 +1991,11 @@ did I not suspect that they arise from my not sufficiently
 understanding it. I shall therefore forbear till the whole can
 lie before me, and shall not at present propose any further
 difficulties to your reasonings. I shall only say that if you
-have been able to clear up these abstruse and important sub-*
+have been able to clear up these abstruse and important subjects,
 #/
 -----File: 059.png---\joeypoz17\75wisconsin\seowphm\F E H\Hermit00\--------
 /#
-*jects, instead of being mortified, I shall be so vain as to pretend
+instead of being mortified, I shall be so vain as to pretend
 to a share of the praise; and shall think that my errors, by
 having at least some coherence, have led you to make a more
 strict review of my principles, which were the common ones,
