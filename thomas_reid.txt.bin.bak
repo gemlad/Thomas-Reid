@@ -962,10 +962,10 @@ $::proofers{'160'}[3] = 'Quister';
 $::proofers{'160'}[4] = 'F E H';
 $::proofers{'160'}[5] = 'Hermit00';
 
+$::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Thomas-Reid\thomas_reid.txt'}='2016-02-06 21:41';
 $::operationshash{'Found no more /p..p/ blocks'}='2016-02-06 19:47';
-$::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Thomas-Reid\thomas_reid.txt'}='2016-02-06 19:29';
 
-$::bookmarks[0] = '2058.0';
+$::bookmarks[0] = '5628.0';
 
 $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Thomas-Reid\pngs\\';
 
