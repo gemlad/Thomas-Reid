@@ -50,28 +50,26 @@ THOMAS REID. By Professor <sc>Campbell Fraser</sc>.
 
 
 
-/*
-THOMAS
-REID
+/$
+  [Illustration]
 
-[Illustration]
+         THOMAS
+           REID
+             BY
+     A:CAMPBELL
+      FRASER ::
 
-BY
+  [Illustration]
 
-A:CAMPBELL
-FRASER ::
+        FAMOUS
+        SCOTS:
+        SERIES
 
-[Illustration]
-
-FAMOUS
-SCOTS:
-SERIES
-
-PUBLISHED BY [**Thistle symbol]
-OLIPHANT ANDERSON
-& FERRIER · EDINBVRGH
-AND LONDON [**leaf symbols?]
-*/
+  PUBLISHED BY [**Thistle symbol]
+  OLIPHANT ANDERSON
+  & FERRIER · EDINBVRGH
+  AND LONDON [**leaf symbols?]
+$/
 
 -----File: 004.png---\tannervandrisse\H Low\MilochGermany\F E H\K7UQT\-----
 
@@ -133,10 +131,10 @@ interesting particulars regarding our national philosophers
 from Hutcheson to Hamilton.
 
 /*
-A. C. F.
+                                                  A. C. F.
 
-<sc>University of Edinburgh</sc>,
-<i>21st February 1898</i>.
+  <sc>University of Edinburgh</sc>,
+      <i>21st February 1898</i>.
 */
 
 -----File: 007.png---\tannervandrisse\H Low\MilochGermany\F E H\cmspence\--
@@ -144,77 +142,53 @@ A. C. F.
 
 
 
+/f
 CONTENTS
+f/
 
-
-/*
-CHAPTER I
-
-      PAGE
-
+/*[2]
+CHAPTER I                                                   PAGE
 <sc>Boyhood and Ancestry: Strachan and the Valley of
-the Dee, 1710-1722</sc>      9
-
+the Dee, 1710-1722</sc>                                             9
 
 CHAPTER II
-
-<sc>At Marischal College, 1722-1737</sc>      18
-
+<sc>At Marischal College, 1722-1737</sc>                               18
 
 CHAPTER III
-
-<sc>New Machar and David Hume, 1737-1751</sc>      30
-
+<sc>New Machar and David Hume, 1737-1751</sc>                          30
 
 CHAPTER IV
-
-<sc>Old Aberdeen: A Regent in King's College, 1751-1764</sc>      43
-
+<sc>Old Aberdeen: A Regent in King's College, 1751-1764</sc>           43
 
 CHAPTER V
-
 <sc>Universal Scepticism versus Inspired Common Sense:
 An 'Inquiry into the Human Mind on the Principles
-of Common Sense,' 1764</sc>      56
-
+of Common Sense,' 1764</sc>                                        56
 
 CHAPTER VI
-
 <sc>Glasgow College: The Professor of Moral Philosophy,
-1764-1780</sc>      72
+1764-1780</sc>                                                     72
 -----File: 008.png---\tannervandrisse\libraryfan\MilochGermany\F E H\cmspence\-
 
-
 CHAPTER VII
-
-      PAGE
-
 <sc>In Philosophical Retirement: Authorship in Old
-Age, 1780-1795</sc>      103
-
+Age, 1780-1795</sc>                                               103
 
 CHAPTER VIII
-
 <sc>Inspired Common Sense and Causation: Active or
-Moral Power in Man</sc>      118
-
+Moral Power in Man</sc>                                           118
 
 CHAPTER IX
-
-<sc>The End, 1796</sc>      126
-
+<sc>The End, 1796</sc>                                                126
 
 CHAPTER X
-
-<sc>Retrospective and Critical</sc>      133
-
+<sc>Retrospective and Critical</sc>                                   133
 
 CHAPTER XI
-
 <sc>Reid in the Nineteenth Century: Development of
 the Common Sense Philosophy: Reid in France:
 Reid and Hamilton: Reid and Scoto-Hegelian
-Idealism: Ethical or Theistic Final Faith</sc>      144
+Idealism: Ethical or Theistic Final Faith</sc>                    144
 */
 
 -----File: 009.png---\tannervandrisse\libraryfan\juliebarkley\F E H\Close@Hand\-
@@ -2011,7 +1985,7 @@ writes thus to Hume:--
 /#
 
 /*
-'<sc>King's College</sc>, <i>18th March 1763</i>.
+               '<sc>King's College</sc>, <i>18th March 1763</i>.
 */
 
 '<sc>Sir</sc>,--On Monday last Mr. John Farquhar brought me
@@ -3882,7 +3856,7 @@ more. And it reduced David Hume to the condition of a
 certain old gentleman of whom we read, that--
 #/
 
-/*
+/*[6]
                   Fluttering his pinions vain,
 Plumb down he dropped, ten thousand fathoms deep.'
 */
@@ -5114,9 +5088,9 @@ in the century which has passed since he died.
 CHAPTER XI
 
 REID IN THE NINETEENTH CENTURY: DEVELOPMENT OF
-THE COMMON SENSE PHILOSOPHY: REID IN FRANCE:
-REID AND HAMILTON: REID AND SCOTO-HEGELIAN
-IDEALISM: ETHICAL OR THEISTIC FINAL FAITH
+    THE COMMON SENSE PHILOSOPHY: REID IN FRANCE:
+    REID AND HAMILTON: REID AND SCOTO-HEGELIAN
+    IDEALISM: ETHICAL OR THEISTIC FINAL FAITH
 f/
 
 
