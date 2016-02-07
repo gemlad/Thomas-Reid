@@ -962,13 +962,24 @@ $::proofers{'160'}[3] = 'Quister';
 $::proofers{'160'}[4] = 'F E H';
 $::proofers{'160'}[5] = 'Hermit00';
 
-$::operationshash{'Found no more /p..p/ blocks'}='2016-02-07 11:19';
+$::operationshash{'Found no more orphaned /[Pp] [Pp]/'}='2016-02-07 11:39';
+$::operationshash{'Found no more orphaned /$ $/'}='2016-02-07 11:39';
 $::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Thomas-Reid\thomas_reid.txt'}='2016-02-06 21:41';
+$::operationshash{'Found no more orphaned /* */'}='2016-02-07 11:39';
 $::operationshash{'Found no more /#..#/ blocks'}='2016-02-06 22:33';
+$::operationshash{'Found no more orphaned <>'}='2016-02-07 11:39';
+$::operationshash{'Found no more /p..p/ blocks'}='2016-02-07 11:19';
+$::operationshash{'Found no more orphaned ()'}='2016-02-07 11:39';
+$::operationshash{'Found no more orphaned /# #/'}='2016-02-07 11:39';
+$::operationshash{'Found no more asterisks without slash'}='2016-02-07 11:54';
+$::operationshash{'Found no more orphaned []'}='2016-02-07 11:39';
+$::operationshash{'Found no more proofer comments'}='2016-02-07 11:51';
 $::operationshash{'Open C:\Users\Gemma\Documents\PGDP\Thomas-Reid\thomas_reid.txt'}='2016-02-07 11:02';
+$::operationshash{'Found no more orphaned {}'}='2016-02-07 11:39';
+$::operationshash{'Found no more orphaned “ ”'}='2016-02-07 11:39';
 $::operationshash{'Found no more /*..*/ blocks'}='2016-02-07 11:18';
 
-$::bookmarks[0] = '24.0';
+$::bookmarks[0] = '5158.45';
 
 $::pngspath = 'C:\Users\Gemma\Documents\PGDP\Thomas-Reid\pngs\\';
 

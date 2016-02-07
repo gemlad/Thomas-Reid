@@ -37,7 +37,7 @@ FLETCHER OF SALTOUN. By <sc>G. W. T. Omond</sc>.
 THE BLACKWOOD GROUP. By Sir <sc>George Douglas</sc>.
 NORMAN MACLEOD. By <sc>John Wellwood</sc>.
 SIR WALTER SCOTT. By Professor <sc>Saintsbury</sc>.
-KIRKCALDY OF GRANGE. By <sc>Louis A. Barbé[** = Barbé ?]</sc>.
+KIRKCALDY OF GRANGE. By <sc>Louis A. Barbé</sc>.
 ROBERT FERGUSSON. By <sc>A. B. Grosart</sc>.
 JAMES THOMSON. By <sc>William Bayne</sc>.
 MUNGO PARK. By <sc>T. Banks Maclachlan</sc>.
@@ -65,10 +65,10 @@ THOMAS REID. By Professor <sc>Campbell Fraser</sc>.
         SCOTS:
         SERIES
 
-  PUBLISHED BY [**Thistle symbol]
+  PUBLISHED BY
   OLIPHANT ANDERSON
   & FERRIER · EDINBVRGH
-  AND LONDON [**leaf symbols?]
+  AND LONDON
 $/
 
 -----File: 004.png---\tannervandrisse\H Low\MilochGermany\F E H\K7UQT\-----
@@ -327,7 +327,7 @@ seems, grandson of a younger brother of this Alexander of
 Pitfodels; and Lewis Reid, the minister of Strachan, was in
 direct descent from the minister of Banchory. It is told
 of James Reid that he was 'a man of notable head-piece
-for witte, and the[**typo? that] most of his children were men of extraordinary
+for witte, and the most of his children were men of extraordinary
 qualifications.' His eldest son, Robert, noted for
 good sense, succeeded him at Banchory. The second son,
 Thomas, was one of the numerous Scots famed for learning,
@@ -359,7 +359,7 @@ from which the historian Bishop Burnet was descended.
 These Reids of Banchory rest in the old burial-ground
 there, 'not farre from the banke of the river Dee, expecting
 the general resurrection, and the glorious appearing of
-Jesus Christ there[**their?] Redemier.'
+Jesus Christ there Redemier.'
 
 But the Gregory connection of Thomas Reid through
 his mother is, as I have said, more significant than the
@@ -376,7 +376,7 @@ named Anderson, one of a family reputed for mathematical
 -----File: 014.png---\tannervandrisse\Kasa\seowphm\F E H\Jo-Anne43\--------
 ability in successive generations. She inherited the genius
 of her family, and transmitted it to her sons. Her
-husband at Drumoak seems to have steered his cause[**meant to be this spelling, not course?]
+husband at Drumoak seems to have steered his cause
 skilfully in that troubled time, for he bought the good
 estate of Kinairdy, part of the heritage of the lordly
 house of Creighton Viscount Frendraught. Alexander,
@@ -823,13 +823,13 @@ head. <i>Num detur peccatum originale inherens.</i>--22nd September
 tryal and was approved. And the presbytery taking into
 consideration that he, having passed his course in Arts at the
 College, and thereafter having studied Divinity for the space
-of [**how many spaces should be left for unknown number of years?/F2][1] years, as also having resided for the whole of this
+of     [1] years, as also having resided for the whole of this
 -----File: 027.png---\philwm47\gaston\seowphm\F E H\Jo-Anne43\-------------
 time within the bounds of this presbytery; and they looking
 upon him as a person fit to be entered upon tryals, and also
 having had sufficient testimonials from the professors of
 divinity with whom he studied as to his proficiency in his
-studys and good behavour[**behaviour], he was admitted to the usual tryals
+studys and good behavour, he was admitted to the usual tryals
 appointed by the Acts of the General Assembly of this Church,
 and having passed through all the parts thereof, he was licensed
 by the said presbytery to preach the Gospel of Christ, and
@@ -2868,7 +2868,7 @@ pasturage, agriculture, and commerce. Our Society [Senate]
 is not so harmonious as I wish. Schemes of interest, pushed
 by some and opposed by others, are like to divide us into
 parties, and perhaps engage us in law suits. Mrs. Reid,
-Pegie[** 'Peggie' is common for 'Margaret' - is this typo?], and I, have all had a severe cold and cough. I have
+Pegie, and I, have all had a severe cold and cough. I have
 been keeping the house these two days in order to get the
 better of it.'
 #/
@@ -3083,7 +3083,7 @@ bottom.... I have gone over Sir James Stewart's great
 book of political economy, wherein I think there is a great
 deal of good material--carelessly put together indeed; but
 I think it contains more sound principles concerning commerce
-and police[** policy?] than any book we have yet had. We had
+and police than any book we have yet had. We had
 the favour of a visit from Sir Archibald Grant. It gave
 me much pleasure to see him retain his spirits and vigour.'
 A letter in October mentions that Reid had 'passed eight
@@ -3397,7 +3397,7 @@ of Oswald and even Beattie, is exposed by Professor Sidgwick in
 
 Reid made no reply at the time to this argumentative
 discharge. In an unpublished letter to Dr. Price he gives
-a reason for his silence. 'I will not answer Dr. Priestley,[**']
+a reason for his silence. 'I will not answer Dr. Priestley,'
 he says, 'because he is very lame in abstract reasoning. I
 have got no light from him. And indeed what light with
 respect to the powers of the mind can one expect from a
@@ -3683,7 +3683,7 @@ trace of correspondence with his Aberdeen friends Campbell
 and Beattie, whose pursuits had so much in common
 with his own. But letters to Dr. James Gregory take the
 place in the 'eighties' which those to Lord Kames took
-in the 'seventies'; they reveal an old age given to proof-*sheets,
+in the 'seventies'; they reveal an old age given to proof-sheets,
 scientific experiments, and benignant interest in
 social progress. One dated 'Glasgow College, April 7,
 1783,' tells of the <i>Essays on the Intellectual Powers</i>
@@ -4495,7 +4495,7 @@ good men. It is the consolation of old age, and more than
 sufficient to make its infirmities sit light.'
 #/
 
-The dissolution of the material organism which for eighty-*six
+The dissolution of the material organism which for eighty-six
 -----File: 127.png---\hugger1935\eyecrochet\MilochGermany\F E H\Hermit00\--
 years had served the writer of these words was now near.
 Of his few early philosophical associates, Campbell and
@@ -4569,7 +4569,7 @@ filia piissima, unica superstes, Martha Carmichael.'
 After the University of Glasgow had in 1872 exchanged
 the College in the High Street, with its touching memories,
 for its new and stately home on the bank of the Kelvin,
-Reid's remains were carried to the Necropolis which over-*looks
+Reid's remains were carried to the Necropolis which overlooks
 his old home in the Drygate, and the tombstone was
 removed to the College on Gilmore Hill.
 
@@ -4612,7 +4612,7 @@ His ingenious and elaborate works, especially his <i>Inquiry into
 the Human Mind</i>, and his <i>Essays on the Intellectual and
 the Active Powers of Man</i>, are noble and lasting monuments
 of his eminent abilities, his deep penetration, and his extensive
-learning. By unravelling sceptical perplexities, overturning ill-*founded
+learning. By unravelling sceptical perplexities, overturning ill-founded
 hypotheses, and resting every conclusion on evident
 principles, he has brought about a memorable revolution in the
 Philosophy of Human Nature. His character through life was
@@ -4635,7 +4635,7 @@ proof of weakness to differ from Mr. Hume have slighted the
 speculations of Dr. Reid, and undervalued the precision
 which he laboured to introduce, his Inquiry into the Senses
 will probably be coeval with our language. It is founded on
-facts which must continue to interest men while their constition[** constitution]
+facts which must continue to interest men while their constition
 continues unchanged. In his pursuit of new knowledge
 he studied the late improvements in chemistry; he observed
 the great political events which have happened, and contemplated
@@ -4643,7 +4643,7 @@ that with which the time seems pregnant with the keen
 interest of one entering on life. He venerated religion--not the
 noisy, contentious systems which lead men to hate and persecute
 each other, but the sublime principle which regulates the conduct,
-by controuling[** controlling] the selfish and animating the benevolent
+by controuling the selfish and animating the benevolent
 affections. When vilified by intemperate philosophers [<i>e.g.</i>
 Priestley], he made no reply, being satisfied with having stated
 what he thought the truth; and when outraged by zealots who
@@ -5155,7 +5155,7 @@ presented in human consciousness, with a gradual decline
 of interest in the metaphysical and moral problems which
 Hume's agnostic distrust had introduced even into Reid's
 modest treatment of the common sense. Scottish philosophy
-became a search for natural sequences and co-*existences
+became a search for natural sequences and co-existences
 among phenomena, instead of search for firm
 intellectual and moral footing in a universe to which we
 are introduced by being percipient of an infinitesimal part

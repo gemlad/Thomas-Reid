@@ -20,3 +20,14 @@ errors, but those deemed to be deliberate spelling variations have
 been retained.
 
 The following alterations have been made:
+
+
+Proofers notes: (deleted = deleted Proofer's note i.e. left as image text)
+img:002	KIRKCALDY OF GRANGE. By <sc>Louis A. Barbé[** = Barbé ?]</sc>.	deleted
+img:003	  PUBLISHED BY [**Thistle symbol]	deleted (add in HTML)
+img:003	  AND LONDON [**leaf symbols?]	deleted (add in HTML)
+img:012	for witte, and the[**typo? that] most of his children were men of extraordinary	deleted (silent)
+img:013	Jesus Christ there[**their?] Redemier.'	deleted (silent)
+img:014	husband at Drumoak seems to have steered his cause[**meant to be this spelling, not course?]	deleted (silent)
+img:026	of [**how many spaces should be left for unknown number of years?/F2][1] years, as also having resided for the whole of this	4 spaces added - check in both text and html that it looks ok
+img:027	studys and good behavour[**behaviour], he was admitted to the usual tryals	deleted (silent)
